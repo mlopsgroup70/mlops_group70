@@ -22,7 +22,7 @@ dependencies = [
     "fastapi==0.115.6",
     "mlcroissant>=1.0.22",
     "pandas>=2.3.3",
-    "torch==2.6.0",
+    "torch==2.9.1",
     "typer==0.15.1",
     "uvicorn==0.34.0",
     "scikit-learn>=1.5.0",
